@@ -34,7 +34,7 @@ Quizvello includes a splash screen, a home screen, an interactive quiz flow, and
     </td>
 <td align="center">
       <strong>Let's Start Screen</strong><br><br>
-      <img src="screenshots/tsg-appdev-p03-atifshehzad-Lets-start-screens.png" width="220">
+      <img src="screenshots/tsg-appdev-p03-atifshehzad-Lets-start-screen.png" width="220">
     </td>
   </tr>
 
